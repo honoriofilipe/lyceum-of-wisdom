@@ -2766,3 +2766,7 @@ R: Flores para Algernon
 Questão 690
 Qual das seguintes opções NÃO é uma das habilidades de Júlio César?
 R: Vida militar
+
+Questão 691
+As táticas de combate são uma importante tecnologia militar - que efeito elas têm?
+R: Aumentam o Ataque de todas as unidades
